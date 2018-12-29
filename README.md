@@ -1,4 +1,5 @@
 # space-invaders-8080-emulator
 The trials and tribulations of Emulator 101.
 
-A simple side project which roughly follows http://www.emulator101.com/welcome.html, to build competancy in emulators & lower level programming.
+A simple side project roughly following http://www.emulator101.com/welcome.html.
+Goal: develop competancy in emulators & lower level programming
